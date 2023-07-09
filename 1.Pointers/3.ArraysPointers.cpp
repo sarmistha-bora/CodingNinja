@@ -1,4 +1,4 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 
 int main(){
@@ -54,8 +54,8 @@ int main(){
     */
 
 
-   int a[6]={1,2,3};
-   int *b=a;
+   int c[6]={1,2,3};
+   int *b=c;
    cout<<b[2]<<endl;
 
 
